@@ -1,0 +1,14 @@
+# Node Modules
+**/node_modules
+
+# Build
+**/dist
+
+# Logs
+*.log
+
+# Environment Variables
+.env
+
+# macOS
+.DS_Store
